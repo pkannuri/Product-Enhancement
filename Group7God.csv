@@ -1,0 +1,86 @@
+God_ID,God_Name,Alias,God_Description
+GOD_001,Lord Vishnu,Lord Hari,Preserver god of the Hindu trinity.
+GOD_002,Goddess Lakshmi,Goddess Kamala,Goddess of wealth and prosperity.
+GOD_003,Goddess Durga,Goddess Bhagvati,Warrior goddess of Hinduism.
+GOD_004,Lord Shiva,Lord Mahadeva,Destroyer god of the Hindu trinity.
+GOD_005,Lord Ganesha,Lord Ganapati,Elephant-headed god of wisdom and good beginnings.
+GOD_006,Goddess Ganga,Goddess Gangamaiya,Goddess of the Ganges River.
+GOD_007,Goddess Yamuna,Goddess Kalindi,Goddess of the Yamuna River.
+GOD_008,Lord Krishna,Lord Vasudeva,Eighth avatar of Lord Vishnu.
+GOD_009,Lord Brahma,Lord Hiranyagarbha,Creator god of the Hindu trinity.
+GOD_010,Goddess Naina Devi,Goddess Devi,Form of the goddess Durga.
+GOD_011,Lord Guru Nanak Dev Ji,Lord Sat Guru Nanak Dev Ji,Founder of Sikhism.
+GOD_012,Goddess Vaishno Devi,Goddess Mata Rani,Form of the goddess Lakshmi.
+GOD_013,Goddess Radha,Godess Rukmini,"Radha is the consort of Lord Krishna. She is often depicted as a beautiful woman riding on Garuda, the eagle."
+GOD_014,Goddess Sita,Goddess Janaki,"Sita is the consort of Lord Rama. She is often depicted as a beautiful woman riding on Pushpak Vimana, the celestial chariot."
+GOD_015,Lord Hanuman,Lord Anjaneya,Hanuman is the monkey god. He is often depicted as flying through the air on his own.
+GOD_016,Sidh Baba Balak Nath,Shri Ram Giri,Sidh Baba Balak Nath is a yogi and saint. He is often depicted as riding on a bull.
+GOD_017,Baba Gorakhnath,Yogi Gorakhnath,Baba Gorakhnath is a yogi and founder of the Nath sect. He is often depicted as riding on a tiger.
+GOD_018,Lord Surya,Lord Ravi,Surya is the sun god. He is often depicted as riding on a chariot drawn by seven horses.
+GOD_019,Lord Adityas,Lord Surya,The Adityas are the twelve sons of Lord Surya. They are often depicted as riding on chariots drawn by twelve horses.
+GOD_020,Navagrahas,Navan-graha,The Navagrahas are the nine planets in Hindu astrology. They are often depicted as riding on chariots drawn by nine horses.
+GOD_021,Lord Jagannath,Lord Balabhadra,Lord Jagannath is a form of Lord Krishna. He is often depicted as riding on a Rath Yatra chariot during the Rath Yatra festival.
+GOD_022,Lord Balarama,Lord Baladeva,Balarama is the elder brother of Lord Krishna. He is often depicted as riding on a white bull.
+GOD_023,Goddess Subhadra,Godess Bhadra,"Subhadra is the sister of Lord Krishna and Balarama. She is often depicted as riding on Garuda, the eagle."
+GOD_024,Goddess Kali,Goddess Mahakali,Kali is the goddess of death and destruction. She is often depicted as riding on a lion.
+GOD_025,Goddess Dakshina Kali,Goddess Chamunda,Dakshina Kali is a form of the goddess Kali. She is often depicted as riding on a lion.
+GOD_026,Goddess Bhavatarini,Goddess Rudrani,Bhavatarini is a form of the goddess Kali. She is often depicted as riding on a lion.
+GOD_027,Goddess Kamakhya,Goddess Bhavani,Godess Kamakhya is a mother goddess. She is often depicted as riding on a lion.
+GOD_028,Mahavidyas,Goddess Dasa-Mahavidya,"The Mahavidyas are ten goddesses who represent the different aspects of Shakti, the divine feminine energy. They are often depicted as riding on Garuda, the eagle."
+GOD_029,Dashamahavidyas,Mahavidyas,"The Dashamahavidyas are the same as the Mahavidyas, but they are often depicted as riding on different vahana, or vehicles. Garuda is still the most common vahana for the Dashamahavidyas."
+GOD_030,Swaminarayan,Sahajanand Swami,"Swaminarayan is a Hindu deity who is considered to be the supreme being by his followers. He is often depicted as riding on Garuda, the eagle."
+GOD_031,Lord Shani,Lord Mahesha,"Lord Shani is the god of Saturn and is associated with time, karma, and justice. He is often depicted as riding on a black chariot."
+GOD_032,Sai Baba,Shirdi Sai Baba,Sai Baba was a spiritual master who is revered by both Hindus and Muslims. He is often depicted as riding on a horse.
+GOD_033,Lord Rama,Lord Raghupati,"Lord Rama is the seventh avatar of Lord Vishnu. He is often depicted as riding on Pushpak Vimana, the celestial chariot."
+GOD_034,Lord Adinath,Lord Ajah,Lord Adinath is the first Jain Tirthankara. He is often depicted as riding on a bull.
+GOD_035,Lord Neminath,Lord Arishtanemi,Lord Neminath is the twenty-second Jain Tirthankara. He is often depicted as sitting on a conch shell.
+GOD_036,Lord Parshvanath,Lord Parsva,Lord Parshvanath is the twenty-third Jain Tirthankara. He is often depicted as sitting on a serpent.
+GOD_037,Lord Mahavira,Lord Jina,Lord Mahavira is the twenty-fourth and last Jain Tirthankara. He is often depicted as sitting on a lion.
+GOD_038,Lord Buddha,Lord Siddhartha,Lord Buddha is the founder of Buddhism. He is often depicted as sitting on a lotus flower.
+GOD_039,Jain Tirthankars,Kevala Gyana,"The Jain Tirthankaras are the twenty-four spiritual teachers who founded Jainism. They are often depicted as sitting on different vahana, or vehicles."
+GOD_040,Lord Venkatesha,Lord Balaji,"Lord Venkatesha is a form of Lord Vishnu. He is often depicted as riding on Garuda, the eagle."
+GOD_041,Lord Virupaksha,Lord Mallikarjuna,Lord Virupaksha is a form of Lord Shiva. He is often depicted as riding on a bull.
+GOD_042,Lord Vittala,Lord Panduranga,Lord Vittala is a form of Lord Krishna. He is often depicted as riding on a chariot.
+GOD_043,Goddess Chamudeshwari,Goddess Durga,Chamundeshwari is a form of the goddess Durga. She is often depicted as riding on a lion.
+GOD_044,Lord Ayyappa,Lord Manikantan,Ayyappa is a Hindu deity who is considered to be a son of Lord Shiva and Vishnu. He is often depicted as riding on a tiger.
+GOD_045,Goddess Sivakami,Goddess Pushkala,"Sivakami is the consort of Lord Ayyappa. She is often depicted as riding on Garuda, the eagle."
+GOD_046,Lord Nataraja,Lord Siva,Nataraja is a form of Lord Shiva in his cosmic dance pose. He is often depicted as dancing on a bull.
+GOD_047,Lord Lakshmi Narasimha,Lord Narasimha,"Lakshmi Narasimha is a form of Lord Vishnu in his man-lion avatar. He is often depicted as riding on Garuda, the eagle."
+GOD_048,Lord Lakshmana,Lord Shatrughna,Lakshmana is the brother of Lord Rama. He is often depicted as riding on a chariot.
+GOD_049,Goddess Mahalakshmi,Goddess Padma,"Mahalakshmi is the goddess of wealth and prosperity. She is often depicted as riding on Garuda, the eagle."
+GOD_050,Goddess Maya,Goddess Shakti,Maya is the goddess of illusion. She is often depicted as riding on a peacock.
+GOD_051,Goddess Parvati,Goddess Sati,Consort of Lord Shiva and the mother of Lord Ganesha and Lord Kartikeya.
+GOD_052,Lord Kali,Lord Bhadrakali,Lord Kali is the goddess of death and destruction. She is often depicted as riding on a lion.
+GOD_053,Lord Kamakhya,Lord Sati,Kamakhya is a mother goddess. She is often depicted as riding on a lion.
+GOD_054,Lord Karni Mata,Lord Ratnavati,Karni Mata is a folk deity who is revered in Rajasthan. She is often depicted as riding on a rat chariot.
+GOD_055,Lord Indra,Lord Shatakratu,"Indra is the king of the gods and the god of thunder and lightning. He is often depicted as riding on Airavata, the white elephant."
+GOD_056,Lord Yama,Lord Dharmaraja,Yama is the god of death and the underworld. He is often depicted as riding on a buffalo.
+GOD_057,Lord Varuna,Lord Samudra Devta,"Varuna is the god of the oceans and the atmosphere. He is often depicted as riding on a Makara, a mythical sea creature with the head of a crocodile and the tail of a fish."
+GOD_058,Goddess Saraswati,Goddess Vani,"Saraswati is the goddess of knowledge, music, and the arts. She is often depicted as riding on a swan."
+GOD_059,Goddess Shakti,Goddess Uma,Shakti is the divine feminine energy. She is often depicted as riding on a lion.
+GOD_060,Goddess Uma,Goddess Kali,"Uma is a name for the goddess Parvati, the consort of Lord Shiva. She is often depicted as riding on a bull."
+GOD_061,Goddess Radha,Goddess Ridhika,"Radha is the consort of Lord Krishna. She is often depicted as riding on Garuda, the eagle."
+GOD_062,Goddess Gauri,Goddess Parvati,"Gauri is a name for the goddess Parvati, the consort of Lord Shiva. She is often depicted as riding on a lion."
+GOD_063,Goddess Aditi,Goddess Devamata,Aditi is the mother of the gods. She is often depicted as riding on a chariot drawn by seven cows.
+GOD_064,Goddess Ammaiyar,Goddess Pun?tavat?,Ammaiyar is a Tamil mother goddess. She is often depicted as riding on a peacock.
+GOD_065,Goddess Andal,Goddess Kothai,"Andal is a Tamil saint-poet who is revered as a goddess. She is often depicted as riding on Garudal, the eagle."
+GOD_066,Goddess Bhavani,Goddess Ambika,"Bhavani is a name for the goddess Parvati, the consort of Lord Shiva. She is often depicted as riding on a lion."
+GOD_067,Goddess Kamakshi,Goddess Kamakshi Amman,Kamakshi is a form of the goddess Parvati. She is often depicted as riding on a lion.
+GOD_068,Goddess Meenakshi,Goddess Maduraidevi,Meenakshi is the goddess of the city of Madurai and is often depicted as riding on a lotus chariot.
+GOD_069,Goddess Jwalamukhi,Goddess Ambika ,Jwalamukhi is a form of the goddess Durga and is often depicted as riding on a lion.
+GOD_070,Goddess Subhadra,Goddess Ekanamsha,"Subhadra is the sister of Lord Krishna and Balarama and is often depicted as riding on Garuda, the eagle."
+GOD_071,Goddess Bhavatarini,Goddess Kalika,Bhavatarini is a form of the goddess Kali and is often depicted as riding on a lion.
+GOD_072,Lord Agni,Lord Pavaka,Agni is the god of fire and is often depicted as riding on a goat chariot.
+GOD_073,Lord Kubera,Lord Dhaneshvara,"Kubera is the god of wealth and is often depicted as riding on Pushpak Vimana, the celestial chariot."
+GOD_074,Lord Chandra,Lord Soma,Chandra is the god of the moon and is often depicted as riding on a silver chariot drawn by white horses.
+GOD_075,Lord Dharma,Lord Yama,Dharma is the god of righteousness and is often depicted as riding on a bull chariot.
+GOD_076,Lord Kama,Lord Madana,Kama is the god of love and is often depicted as riding on a flower chariot drawn by parrots.
+GOD_077,Lord Kartikeya,Lord Murugan,Kartikeya is the god of war and is often depicted as riding on a peacock.
+GOD_078,Lord Bharata,Lord Bharata Muni,Bharata is the brother of Lord Rama and is often depicted as riding on a chariot drawn by black horses.
+GOD_079,Lord Shatrughna,Lord Ripudaman ,Shatrughna is the brother of Lord Rama and is often depicted as riding on a chariot drawn by white horses.
+GOD_080,Goddess Adishakti,Goddess Adi Parashakti,Adishakti is the primordial form of the goddess Shakti and is often depicted as riding on a lion.
+GOD_081,Lord Varaaha,Lord Yajna Varaha,Varaha is an avatar of Lord Vishnu and is often depicted as a boar.
+GOD_082,Lord Soma,Lord Chandra,Soma is the god of the moon and is often depicted as riding on a moon chariot.
+GOD_083,Lord Mitras,Lord Mitra-Varuna,Mitras is a solar deity and is often depicted as riding on a horse chariot.
+GOD_084,Lord Usha,Lord Prabha,Usha is the goddess of the dawn and is often depicted as riding on a chariot drawn by red horses.
+GOD_085,Soul,Atma,"The soul is often depicted as riding on a variety of vehicles, such as a chariot, a swan, or a peacock."
